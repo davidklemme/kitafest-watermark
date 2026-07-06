@@ -1,0 +1,12 @@
+# Kein Bildmaterial im Repo - nur der Code
+__pycache__/
+*.pyc
+test_originale/
+test_vorschau/
+test_vorschau_*/
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
